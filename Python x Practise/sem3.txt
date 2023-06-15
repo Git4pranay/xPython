@@ -1,0 +1,11 @@
+
+1:Java_embedded-indrapriyadarshini
+2:Datastructures_th-farhana
+3:Datastructures_lab-farhana
+4:Theoryofcomputation-prakash
+5:Digitalsystemsdesign_th-idaya
+6:Digitalsystemsdesign_lab-idaya
+7:Reportwriting_labonly-akai
+8:Foreignlanguage-moro
+9:DiscreteMathsandgraph_th-deviyamin
+10:bsts-

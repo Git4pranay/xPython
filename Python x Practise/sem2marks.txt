@@ -1,0 +1,14 @@
+lab:
+chelab=83.6-A
+oopslab=85.49-A
+englab=64.8-C
+eeelab=95.8-A
+bsts=70.5-B
+
+th:
+che=75.2
+eee=80.85
+eng=89.8
+oops=77.4
+mat=82.7
+ethis=52
