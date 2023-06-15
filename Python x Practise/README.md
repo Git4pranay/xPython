@@ -1,1 +1,2 @@
-PYTHON lvl1
+# SPM
+ A code of inheritance
